@@ -250,3 +250,6 @@ gap
 ```
 [submission_taskA.csv](https://github.com/user-attachments/files/32677330/submission_taskA.csv)
 [submission_taskB.csv](https://github.com/user-attachments/files/32677323/submission_taskB.csv)
+
+https://chatgpt.com/share/6ab761b2-4d04-83ee-b810-99936cf2b499
+https://chatgpt.com/share/6ab761aa-ca74-83e8-918d-965b027821f7
